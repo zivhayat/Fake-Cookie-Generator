@@ -30,3 +30,6 @@ By using this website, you understand and agree that:
 - The developer is not responsible for any misuse of this tool.
 
 **Never share your real `.ROBLOSECURITY` cookie with anyone. Anyone asking for it is attempting to gain access to your Roblox account.**
+
+
+# https://zivhayat.github.io/Fake-Cookie-Generator/
